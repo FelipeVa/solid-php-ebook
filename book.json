@@ -1,6 +1,6 @@
 {
   "author": "Emmanuel Valverde Ramos",
-  "description": "An This Ebook is based on the article SOLID Principles in PHP by Emmanuel Valverde Ramos.",
+  "description": "An Ebook is based on the article SOLID Principles in PHP by Emmanuel Valverde Ramos.",
   "title": "SOLID in PHP",
   "root": "./src/",
   "structure": {
